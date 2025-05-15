@@ -1,3 +1,5 @@
+![Header Image](tasty_bytes_header_image.png)
+
 # 🍽️ DataCamp Data Scientist Certification: Tasty Bytes Practical Exam
 
 This repository contains my solution to the DataCamp **Data Scientist Certification Practical Exam**, built around the **Tasty Bytes** case study.
