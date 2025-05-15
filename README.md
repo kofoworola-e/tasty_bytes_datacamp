@@ -23,7 +23,7 @@ As a data scientist, I was tasked with exploring the data, developing predictive
 
 ## 📊 Dataset Description
 
-The dataset contains over 9,000 recipes, with each row representing a recipe and including several associated features:
+The dataset contains over 900 recipes, with each row representing a recipe and including several associated features:
 
 | Column Name    | Description                                     |
 | -------------- | ----------------------------------------------- |
@@ -68,8 +68,14 @@ Key insights from the data exploration:
 We introduced a tailored metric called 
 
 > **Promotion Hit Rate (PHR)** = Proportion of promoted recipes that were actually popular
-
-> **PHR = Precision of Model = 80%**
+>
+> **Formula**:
+>
+> $$
+  \text{PHR} = \frac{\text{Number of promoted recipes that became popular}}{\text{Total number of promoted recipes}} \times 100
+  $$
+> 
+> **Estimated Starting PHR = Precision of Model = 80%**
 
 This metric helps the business track ongoing success after model deployment.
 
