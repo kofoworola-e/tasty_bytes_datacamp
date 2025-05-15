@@ -16,10 +16,9 @@ As a data scientist, I was tasked with exploring the data, developing predictive
 
 ## 📁 Repository Contents
 
-* `notebook.ipynb` – Jupyter notebook containing data validation, EDA, model building, evaluation, and conclusions.
-* `report.md` – Written report summarizing my process, key findings, model evaluations, and final recommendations.
+* `notebook.ipynb` – Jupyter notebook containing data validation, EDA, model building, evaluation, and conclusions. It served as the report document for the Data Science team manager,
 * `presentation.pdf` – Slide deck prepared for the product team (8–10 slides).
-* `figures/` – Folder containing all graphics used in the report and presentation.
+* `data/` – Folder containing all datasets.
 
 ## 📊 Dataset Description
 
